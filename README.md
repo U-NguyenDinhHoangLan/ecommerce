@@ -1,1 +1,1 @@
-﻿
+﻿# .NET 6.0 starter project
